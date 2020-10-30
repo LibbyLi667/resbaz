@@ -11,7 +11,7 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "ResBaz Auckland 2019"
+title: "ResBaz Auckland 2020"
 email: "researchdata@auckland.ac.nz"
 description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
 baseurl: ""
@@ -57,9 +57,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "ResBaz : <typeout>"
-eventDate: "July 10-12"
-typeoutTextValues: '"Auckland", "2019"'
-typeoutFallback: "2019"
+eventDate: "Nov 11-25"
+typeoutTextValues: '"Auckland", "2020"'
+typeoutFallback: "2020"
 heroButtons:
  - {link: "", text: "Applications now closed"}
 
@@ -98,9 +98,9 @@ eventAddressLocality: "Auckland"
 eventAddressLocalityRegion: "Auckland"
 eventPostalCode: "79000"
 eventAddressCountry: "New Zealand"
-eventStartTime: "2019-07-10T09:00"
+eventStartTime: "2020-11-25T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-07-12T17:00"
+eventEndTime: "2020-11-27T17:00"
 eventPlaceCoordinates: "-36.850223, 174.76922"
 mapCenterCoordinates: "-36.850223, 174.76922"
 mapMobileCenterCoordinates: "-36.850223, 174.76922"
@@ -111,7 +111,7 @@ venueBigImage: "cam_beanbags.jpg"
 venueSmallImage2: "publishing_tabletop.jpg"
 venueSmallImage1: "sam_on_the_wall.jpg"
 venueSmallImage3: "speaker_beanbags.jpg"
-venueTitle: "ResBaz 2019 @ the Clocktower!"
+venueTitle: "ResBaz 2020 @ the Clocktower!"
 venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
 
 # Tweets Feed Block
