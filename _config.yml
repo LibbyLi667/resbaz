@@ -14,8 +14,8 @@ future: true # Enable future posts (date > current date)
 title: "ResBaz Auckland 2020"
 email: "researchdata@auckland.ac.nz"
 description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
-baseurl: ""
-url: "http://uoa-eresearch.github.io"
+baseurl: "/resbaz"
+url: "http://LibbyLi667.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -72,21 +72,21 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
+#  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
+#  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
+#  - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Keystory speakers"
-rockstarSpeakersButtonText: "See all speakers"
+# rockstarSpeakersImage: "rockstar-speakers.jpg"
+# rockstarSpeakersCount: 4
+# rockstarSpeakersTitle: "Keystory speakers"
+# rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
